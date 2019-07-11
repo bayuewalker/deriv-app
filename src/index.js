@@ -8,4 +8,4 @@ import 'event-source-polyfill';
 import '_common/lib/plugins';
 
 registerServiceWorker();
-import App from 'App/App.jsx';
+import App from 'App/app.jsx';
